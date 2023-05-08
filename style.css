@@ -38,7 +38,7 @@ h1, h2, h3, h4, p {
 .gift-hover{
     margin-top: 0px;
 }
-#gift-img-happy:hover, active {
+#gift-img-happy:hover, #gift-img-happy:active {
     background-image: url("IMAGES/happy.gif");
 }
 .gift{
@@ -50,7 +50,7 @@ h1, h2, h3, h4, p {
     background-size: cover;
     margin: 0 auto;
 }
-#hot:hover, active {
+#hot:hover, #hot:hover:active {
     background-image: url("IMAGES/LOOKING\ HOT.gif")
 }
 .describe{
@@ -62,7 +62,7 @@ h1, h2, h3, h4, p {
     background-size: cover;
     margin: 0 auto;
 }
-#describe:hover, active {
+#describe:hover, #describe:active {
     background-image: url("IMAGES/you-are-amazing-alesha-dixon.gif");
 }
 
@@ -75,7 +75,7 @@ h1, h2, h3, h4, p {
     background-size: cover;
     margin: 0 auto;
 }
-#baddest:hover, active{
+#baddest:hover, #baddest:active{
     background-image: url("IMAGES/WhatsApp\ Image\ 2023-05-06\ at\ 3.49.51\ PM.jpeg");
 }
 #loving{
@@ -87,7 +87,7 @@ h1, h2, h3, h4, p {
     background-size: cover;
     margin: 0 auto;   
 }
-#loving:hover, active{
+#loving:hover, #loving:active{
     background-image: url("IMAGES/Tare&Gift.jpeg");
 }
 .thanks{
